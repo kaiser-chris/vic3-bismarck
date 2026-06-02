@@ -1,0 +1,10 @@
+/.idea/
+/.config/
+gate.iml
+*.bkp
+*.dtmp
+/cmf/
+/etf/
+/docs/
+/script/dlc_signature
+/script/content_load.json

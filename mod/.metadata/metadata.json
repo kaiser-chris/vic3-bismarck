@@ -1,0 +1,16 @@
+{
+  "name" : "[Visual] Bismarck 3",
+  "id" : "com.github.kaiser-chris.vic3-bismarck",
+  "version" : "1.0.0",
+  "game_id" : "victoria3",
+  "picture" : "thumbnail.png",
+  "supported_game_version" : "1.*",
+  "short_description" : "Bismarck 3",
+  "tags" : [
+    "1.13"
+  ],
+  "relationships" : [],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : true
+  }
+}
